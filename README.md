@@ -1,2 +1,9 @@
-# awesome
-A curated list of awesome lists 
+## Table of Contents
+
+- [Comics](#comics)
+
+
+## Comics
+
+- [The Oatmeal](http://theoatmeal.com/)
+- [xkcd](http://xkcd.com)
