@@ -5,9 +5,15 @@
 ## Table of Contents
 
 - [Comics](#comics)
+- [Communication protocols](#communication-protocols)
 
 
 ## Comics
 
 - [The Oatmeal](http://theoatmeal.com/)
 - [xkcd](http://xkcd.com)
+
+
+## Communication protocols
+
+- [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol)
