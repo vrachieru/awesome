@@ -6,6 +6,10 @@
 
 - [Comics](#comics)
 - [Communication protocols](#communication-protocols)
+- [Games](#games)
+- [Holiday spirit](#holiday-spirit)
+  - [Christmas](#christmas)
+- [Music](#music)
 
 
 ## Comics
@@ -19,6 +23,18 @@
 - [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/wiki/Hyper_Text_Coffee_Pot_Control_Protocol)
 
 
+## Games
+
+- [Blocky games](https://blockly-games.appspot.com)
+
+
 ## Music
 
 - [Touch pianist](http://touchpianist.com)
+
+
+## Holiday spirit
+
+### Christmas
+
+- [Christmas experiments](http://christmasexperiments.com)
